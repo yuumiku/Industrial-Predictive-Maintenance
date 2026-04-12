@@ -1,0 +1,22 @@
+{
+  "data": {
+    "asset": {
+      "id": "e0adb33f-c050-42f6-bf08-97ac27bd7674",
+      "name": "Predictive Maintenance Dataset"
+    },
+    "batch_definition": {
+      "id": "a7350617-c2b7-4e7c-ac82-16dbd6b23655",
+      "name": "batch definition"
+    },
+    "datasource": {
+      "id": "ea16dd51-f4a9-4216-9b34-0836ea6c411b",
+      "name": "pd"
+    }
+  },
+  "id": "45e98774-7bdc-4966-8fdb-900419cb15ad",
+  "name": "vd",
+  "suite": {
+    "id": "6fa549e7-e957-41b3-acab-b3514d30be34",
+    "name": "integrity_validation_suite"
+  }
+}

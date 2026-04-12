@@ -1,0 +1,11 @@
+mlflow
+fastapi
+uvicorn
+xgboost
+great_expectations
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+pytest
+pytest-cov

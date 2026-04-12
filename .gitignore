@@ -1,0 +1,5 @@
+.env
+mlruns
+Notebooks
+
+Data/raw/*
