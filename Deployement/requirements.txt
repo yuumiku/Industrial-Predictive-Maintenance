@@ -1,5 +1,6 @@
 mlflow
 fastapi
+httpx
 uvicorn
 xgboost
 great_expectations
