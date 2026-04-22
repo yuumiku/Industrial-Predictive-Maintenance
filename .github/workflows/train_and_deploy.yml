@@ -10,8 +10,6 @@ on:
       - 'Data/processed/**'
       - 'Deployement/**'
       - '.github/workflows/train_and_deploy.yml'
-  schedule:
-    - cron: '0 2 * * 0'  # Weekly on Sunday at 2 AM UTC
 
 jobs:
   validate-and-train:
