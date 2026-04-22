@@ -1,10 +1,6 @@
 name: Data Drift Check
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
-    - cron: '0 3 * * *'    # Daily at 3 AM UTC
-  workflow_dispatch:  # Allow manual trigger
   push:
     paths:
       - 'src/monitor.py'
